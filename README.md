@@ -2,17 +2,17 @@
 
 This page is filled with the best pages to find open-source intelligence in the Netherlands.
 
-## Companies
+## 🏢 Companies
 
-### KVK Extract (🇳🇱 Uittreksel)
+### 🗂️ KVK Extract (🇳🇱 Uittreksel)
 
 Every company needs to be registered at the Netherlands Chamber of Commerce (🇳🇱 de Kamer van Koophandel). Every company must enter its address and contact details here. These records can be bought from the KVK.
 
-https://www.kvk.nl/producten-bestellen/bedrijfsproducten-bestellen/uittreksels/
+<https://www.kvk.nl/producten-bestellen/bedrijfsproducten-bestellen/uittreksels/>
 
-## Persons
+## 👫 Persons
 
-### BIG register
+### 👩‍⚕️ BIG register
 
 Every healthcare professional needs to be registered in the BIG register. The registry can be searched by name or by big number.
 
@@ -25,11 +25,11 @@ The registry provides the following information:
 * Profession
 * Specialism
 
-https://www.bigregister.nl/
+<https://www.bigregister.nl/>
 
-## Geo-information
+## 🌏 Geo-information
 
-### Registry for addresses and buildings (🇳🇱 Basisregistratie Adressen en Gebouwen)
+### 🏘️ Registry for addresses and buildings (🇳🇱 Basisregistratie Adressen en Gebouwen)
 
 The bag registry contains every building in the Netherlands and is the authoritative source from the government.
 
@@ -40,23 +40,40 @@ Every building known to the government has the following information:
 * Build date
 * Function (like residential or industrial building)
 
-https://bagviewer.kadaster.nl/lvbag/bag-viewer/
+<https://bagviewer.kadaster.nl/lvbag/bag-viewer/>
 
-### PDOK viewer
+### 🗺️ PDOK viewer
 
 The PDOK viewer contains many geo datasets like an elevation map, land use, the no-fly zones for drones, and many other datasets.
 
-https://www.pdok.nl/viewer/
+<https://www.pdok.nl/viewer/>
 
-### Old maps
+### 🧭 Old maps
 
 The Dutch Cadaster (🇳🇱 Het kadaster) has old maps available of the entirety of the Netherlands from 1815 to 2007.
 
-https://www.topotijdreis.nl/
+<https://www.topotijdreis.nl/>
 
-## Things
+## 🌇 Places
 
-## RDW license plate checker (🇳🇱 RDW Kentekencheck)
+## 🛫 Aeronautical Information Service (AIS) from the LVNL
+
+The Air Traffic Control the Netherlands (🇳🇱 Luchtverkeersleiding Nederland) pusbishes a lot of information about airports in the netherlands.
+
+this includes a overview map of dutch airspace: <https://vfrchart.lvnl.nl/>
+
+and detailed maps of all airports in the netherlands in the eAIP system: <https://en.lvnl.nl/information-for-airmen/publications-for-airmen>  
+on this page click on the eAIP Link and from there on the left size in `Part 3 AERODROMES (AD)` you will find  eighter `AD 2 AERODROMES` for airports or `AD 3 HELIPORTS` for heliports.
+
+here you can find detailed infromation about the airport. everything from contatct infromation, airport facilities to detailed maps of the airport.  
+with the charts beeing located at `AD 2.24 <ICAO code> CHARTS RELATED TO AN AERODROME` with the most intesting charts being
+
+* `Aerodrome chart` - a overview of the airport
+* `Aircraft parking / docking chart` - a overview with all the parking spaces on the airport
+
+## 🪑 Things
+
+## 🚘 RDW license plate checker (🇳🇱 RDW Kentekencheck)
 
 The Netherlands Vehicle Authority (🇳🇱 Rijksdienst voor het Wegverkeer) has a database with all Dutch cars in which you can look up any Dutch license plate.
 
@@ -69,19 +86,19 @@ This site reports:
 * If there is any recalls on the car
 * And an estimated price and Vehicle registration tax (🇳🇱 BPM)
 
-https://ovi.rdw.nl/
+<https://ovi.rdw.nl/>
 
 ## Other
 
-### P2000
+### 🚒 P2000
 
 P2000 is like a police scanner but only in text and is freely available. Many sites display information about emergency service calls.
 
-https://alarmeringen.nl/ <br>
-http://www.p2000-online.net/
+<https://alarmeringen.nl/>  
+<http://www.p2000-online.net/>
 
-### Delpher
+### 📰 Delpher
 
 Delpher is a big newspaper archive. It has collected many big and small newspapers from 1618 to 1995. They are freely readable and fully searchable.
 
-https://www.delpher.nl/
+<https://www.delpher.nl/>
