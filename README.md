@@ -2,6 +2,17 @@
 
 This page is filled to the brim with the best places to find open-source intelligence in the Netherlands.
 
+## 📚 Table of Contents
+
+* [🏢 Companies](#-companies)
+* [👫 People](#-people)
+* [📄 Laws](#-laws)
+* [🌏 Geo-information](#-geo-information)
+* [✈️ Airspace](#%EF%B8%8F-airspace)
+* [🚗 Cars](#-cars)
+* [🪑 Things](#-things)
+* [📦 Other](#-other)
+
 ## 🏢 Companies
 
 ### 🗂️ KVK Extract (🇳🇱 Uittreksel)
@@ -10,13 +21,13 @@ Every company must be registered at the Netherlands Chamber of Commerce (🇳�
 
 <https://www.kvk.nl/producten-bestellen/bedrijfsproducten-bestellen/uittreksels/>
 
-### 🗂️ OpenKVK
+### 🏴‍☠️ OpenKVK
 
 If you don't want to pay for the KVK extract, you can use OpenKVK. OpenKVK is a free and open-source alternative to the KVK extract. It is a database with all the information from the KVK extract.
 
 <https://openkvk.nl/>
 
-## 👫 Persons
+## 👫 People
 
 ### 👩‍⚕️ BIG register
 
@@ -33,7 +44,7 @@ The registry provides the following information:
 
 <https://www.bigregister.nl/>
 
-## 📜 laws
+## 📄 Laws
 
 ### 📜 Dutch laws and regulations
 
@@ -98,7 +109,7 @@ The Dutch Cadaster (🇳🇱 Het Kadaster) is the government agency that keeps t
 
 <https://www.topotijdreis.nl/>
 
-## ✈️ airspace information
+## ✈️ Airspace
 
 ## 🛬 Aeronautical Information Service (AIS) from the LVNL
 
@@ -115,7 +126,7 @@ With the charts located at `AD 2.24 <ICAO code> CHARTS RELATED TO AN AERODROME`,
 * `Aerodrome chart` - an overview of the airport
 * `Aircraft parking / docking chart` - an overview of all the parking spaces on the airport
 
-## 🛸 drone no-fly zones
+## 🛸 Drone no-fly zones
 
 The LVNL publishes a map with all the no-fly zones for drones in the Netherlands. This map shows no-fly zones and zones where you are limited in flying.
 
@@ -133,7 +144,7 @@ The site also has a map with all the traffic cameras Rijkswaterstaat has.
 
 <https://www.rwsverkeersinfo.nl/>
 
-## 🚘 RDW license plate checker (🇳🇱 RDW Kentekencheck)
+### 🚘 RDW license plate checker (🇳🇱 RDW Kentekencheck)
 
 The Netherlands Vehicle Authority (🇳🇱 Rijksdienst voor het Wegverkeer) has a database with all Dutch cars in which you can look up any Dutch license plate.
 
@@ -148,7 +159,7 @@ This site reports:
 
 <https://ovi.rdw.nl/>
 
-## 🚥 matrix signs
+### 🚥 matrix signs
 
 In the Netherlands, we have real-time traffic management through electronic signs above the road. These signs are controlled by the Rijkswaterstaat and can limit the speed, close lanes, and give other information. You can read more about matrix signs [this dutch Wikipedia page](https://nl.wikipedia.org/wiki/Rijstrooksignalering).
 
@@ -158,13 +169,13 @@ MXbord.nl is a website that shows all the signs in the Netherlands.
 
 ## 🪑 Things
 
-### 🏢 Funda - Dutch Real Estate Platform
+### 🏢 Funda
 
 Funda is the biggest real estate platform in the Netherlands. It has a lot of information about houses and other buildings in the Netherlands, including price, size, location, layout, and interior photos.
 
 <https://www.funda.nl/>
 
-## Other
+## 📦 Other
 
 ### 🚒 P2000
 
@@ -175,6 +186,6 @@ P2000 is like a police scanner but only in text and is freely available. Many si
 
 ### 📰 Delpher
 
-Delpher is a big newspaper archive. It has collected many big and small newspapers from 1618 to 1995. They are freely readable and fully searchable.
+Delpher is a big newspaper archive. It collected many big and small newspapers from 1618 to 1995. They are freely readable and fully searchable.
 
 <https://www.delpher.nl/>
