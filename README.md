@@ -111,7 +111,7 @@ The Dutch Cadaster (🇳🇱 Het Kadaster) is the government agency that keeps t
 
 ## ✈️ Airspace
 
-## 🛬 Aeronautical Information Service (AIS) from the LVNL
+### 🛬 Aeronautical Information Service (AIS) from the LVNL
 
 The Air Traffic Control in the Netherlands (🇳🇱 Luchtverkeersleiding Nederland aka LVNL) publishes a lot of information about airports in the Netherlands.
 
@@ -124,13 +124,21 @@ Here you can find detailed information about the airport. Everything from contac
 With the charts located at `AD 2.24 <ICAO code> CHARTS RELATED TO AN AERODROME`, with the most interesting charts being
 
 * `Aerodrome chart` - an overview of the airport
-* `Aircraft parking / docking chart` - an overview of all the parking spaces on the airport
+* `Aircraft parking / docking chart` - an overview of all the parking spaces at the airport
 
-## 🛸 Drone no-fly zones
+### 🛸 Drone no-fly zones
 
 The LVNL publishes a map with all the no-fly zones for drones in the Netherlands. This map shows no-fly zones and zones where you are limited in flying.
 
 <https://map.godrone.nl/>
+
+### 🎤 LiveATC
+
+LiveATC is a website that streams air traffic control communications from all over the world. There are many streams from the Netherlands.
+
+Amsterdam Schiphol Airport (ICAO: EHAM) is the most popular stream in the Netherlands. It can be found at <https://www.liveatc.net/search/?icao=eham>.
+
+But many other airports in the Netherlands are also streamed. You can find over at [Google](https://www.google.nl/search?q=site%3Ahttps%3A%2F%2Fwww.liveatc.net%2F+the+netherlands)
 
 ## 🚗 Cars
 
@@ -159,13 +167,15 @@ This site reports:
 
 <https://ovi.rdw.nl/>
 
-### 🚥 matrix signs
+### 🚥 Matrix signs
 
-In the Netherlands, we have real-time traffic management through electronic signs above the road. These signs are controlled by the Rijkswaterstaat and can limit the speed, close lanes, and give other information. You can read more about matrix signs [this dutch Wikipedia page](https://nl.wikipedia.org/wiki/Rijstrooksignalering).
+In the Netherlands, we have real-time traffic management through electronic signs above the road. The Rijkswaterstaat controls these signs and can limit the speed, close lanes, and give other information. You can read more about matrix signs [this Dutch Wikipedia page](https://nl.wikipedia.org/wiki/Rijstrooksignalering).
 
 MXbord.nl is a website that shows all the signs in the Netherlands.
 
 <https://mxbord.nl/>
+
+The sources for the information are available at <https://mxbord.nl/bronnen> and mainly point to <https://opendata.ndw.nu/>
 
 ## 🪑 Things
 
@@ -186,6 +196,14 @@ P2000 is like a police scanner but only in text and is freely available. Many si
 
 ### 📰 Delpher
 
-Delpher is a big newspaper archive. It collected many big and small newspapers from 1618 to 1995. They are freely readable and fully searchable.
+Delpher is an extensive newspaper archive. It collected many big and small newspapers from 1618 to 1995. They are freely readable and fully searchable.
 
 <https://www.delpher.nl/>
+
+### 📡 WebSDR
+
+WebSDR is a software-defined radio receiver that can be accessed over the internet. It can be used to listen to radio signals from all over the world.
+
+There are many WebSDR stations in the Netherlands, and they can be found on the <http://websdr.org/> website.
+
+The most popular WebSDR station in the Netherlands is the one in Twente. It can be found at <http://websdr.ewi.utwente.nl:8901/>.
