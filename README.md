@@ -17,7 +17,7 @@ This page is filled to the brim with the best places to find open-source intelli
 
 ### 🗂️ KVK Extract (🇳🇱 Uittreksel)
 
-Every company must be registered at the Netherlands Chamber of Commerce (🇳🇱 de Kamer van Koophandel, aka KVK). Every company must enter its address and contact details here. These records can be bought from the KVK.
+Every company must be registered at the [Netherlands Chamber of Commerce](https://en.wikipedia.org/wiki/Kamer_van_Koophandel) (🇳🇱 [de Kamer van Koophandel](https://nl.wikipedia.org/wiki/Kamer_van_Koophandel_(Nederland)), aka KVK). Every company must enter its address and contact details here. These records can be bought from the KVK.
 
 <https://www.kvk.nl/producten-bestellen/bedrijfsproducten-bestellen/uittreksels/>
 
@@ -31,7 +31,7 @@ If you don't want to pay for the KVK extract, you can use OpenKVK. OpenKVK is a 
 
 ### 👩‍⚕️ BIG register
 
-Every healthcare professional needs to be registered in the BIG register. The registry can be searched by name or by big number.
+Every healthcare professional needs to be registered in the [BIG register](https://en.wikipedia.org/wiki/BIG-register). The registry can be searched by name or by BIG number.
 
 The registry provides the following information:
 
@@ -108,6 +108,26 @@ The PDOK viewer contains many geo datasets like an elevation map (ANH 3), land u
 The Dutch Cadaster (🇳🇱 Het Kadaster) is the government agency that keeps track of all land in the Netherlands. They have a website where you can look up old maps of the Netherlands. The maps are from 1815 to 2007.
 
 <https://www.topotijdreis.nl/>
+
+### World war II Arial Photos
+
+The RAF took a lot of photos of the netherlands. The Wageningen University catalouged these and made them avalibol.
+
+<https://library.wur.nl/WebQuery/geoportal/raf>
+
+### 🌱 soil survey
+
+TNO and the Ministry of the Interior and Kingdom Relations (🇳🇱 Ministerie van Binnenlandse Zaken en Koninkrijksrelaties) have a database for all soil survays done in the last few years.
+
+in these reports you can find:
+
+* the makeup of the ground
+* the pressuer in can hold
+* the hight of the water table
+
+They call it the `DINO-database` witch might be a backronym
+
+<https://www.dinoloket.nl/>
 
 ## ✈️ Airspace
 
