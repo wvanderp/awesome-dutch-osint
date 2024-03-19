@@ -174,16 +174,16 @@ The site also has a map with all the traffic cameras Rijkswaterstaat has.
 
 ### 🚘 RDW license plate checker (🇳🇱 RDW Kentekencheck)
 
-The Netherlands Vehicle Authority (🇳🇱 Rijksdienst voor het Wegverkeer) has a database with all Dutch cars in which you can look up any Dutch license plate.
+The Netherlands Vehicle Authority (🇳🇱 [Rijksdienst voor het Wegverkeer](https://nl.wikipedia.org/wiki/RDW_(Dienst_Wegverkeer))) has a database with all Dutch cars in which you can look up any Dutch license plate.
 
 This site reports:
 
 * The make and model
 * The color
 * Information about the motor, like the power, cylinder capacity, and the emissions
-* Data about when mandatory maintenance was done (🇬🇧 MOT (🇳🇱 APK)) was last done
+* Data about when mandatory maintenance was done (🇬🇧 [MOT](https://en.wikipedia.org/wiki/MOT_test) (🇳🇱 [APK](https://nl.wikipedia.org/wiki/Algemene_periodieke_keuring))) was last done
 * If there are any recalls on the car
-* And an estimated price and Vehicle registration tax (🇳🇱 BPM)
+* And an estimated price and Vehicle registration tax (🇳🇱 [BPM](https://nl.wikipedia.org/wiki/Belasting_van_personenauto%27s_en_motorrijwielen))
 
 <https://ovi.rdw.nl/>
 
@@ -196,6 +196,14 @@ MXbord.nl is a website that shows all the signs in the Netherlands.
 <https://mxbord.nl/>
 
 The sources for the information are available at <https://mxbord.nl/bronnen> and mainly point to <https://opendata.ndw.nu/>
+
+### 🛣️ Nationaal Wegenbestand
+
+The national road database (🇳🇱 [Nationaal Wegenbestand](https://nl.wikipedia.org/wiki/Nationaal_Wegenbestand)) contains all the roads in the Netherlands. It is a dataset with all the roads, including the road number, the type of road, and the location. 
+But the most important information is the owner of the road (🇳🇱 [Wegbeheerders](https://nl.wikipedia.org/wiki/Wegbeheerder). From this you can determine if a road is publicly or privately owned.
+
+<https://www.nationaalwegenbestand.nl/> main site of the dataset
+<https://www.pdok.nl/introductie/-/article/nationaal-wegen-bestand-nwb-wegen> a handy viewer of the dataset
 
 ## 🪑 Things
 
