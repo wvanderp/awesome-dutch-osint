@@ -11,6 +11,7 @@ This page is filled to the brim with the best places to find open-source intelli
 * [✈️ Airspace](#%EF%B8%8F-airspace)
 * [🚗 Cars](#-cars)
 * [🪑 Things](#-things)
+* [🌦️ Weather](#-weather)
 * [📦 Other](#-other)
 
 ## 🏢 Companies
@@ -23,7 +24,7 @@ Every company must be registered at the [Netherlands Chamber of Commerce](https:
 
 ### 🏴‍☠️ OpenKVK
 
-If you don't want to pay for the KVK extract, you can use OpenKVK. OpenKVK is a free and open-source alternative to the KVK extract. It is a database with all the information from the KVK extract.
+If you prefer not to pay for the KVK extract, OpenKVK is a free and open-source alternative. This database, which mirrors the KVK extract, puts the power of information in your hands.
 
 <https://openkvk.nl/>
 
@@ -31,7 +32,7 @@ If you don't want to pay for the KVK extract, you can use OpenKVK. OpenKVK is a 
 
 ### 👩‍⚕️ BIG register
 
-Every healthcare professional needs to be registered in the [BIG register](https://en.wikipedia.org/wiki/BIG-register). The registry can be searched by name or by BIG number.
+Every healthcare professional needs to be registered in the BIG register. This register, maintained by the Dutch government, is a crucial resource for verifying the credentials of healthcare professionals. It can be searched by name or by BIG number.
 
 The registry provides the following information:
 
@@ -48,7 +49,7 @@ The registry provides the following information:
 
 ### 📜 Dutch laws and regulations
 
-The Dutch government publishes all laws and regulations on the Wettenbank website. The website is searchable and has a list of all laws and regulations.
+The Dutch government's Wettenbank website is a treasure trove of all laws and regulations, easily searchable and comprehensive, ensuring you stay well-informed.
 
 <https://wetten.overheid.nl/>
 
@@ -86,7 +87,7 @@ These announcements include but are not limited to:
 
 ### 🏘️ Registry for addresses and buildings (🇳🇱 Basisregistratie Adressen en Gebouwen)
 
-The bag registry contains every building in the Netherlands and is the authoritative source from the government.
+The bag registry, which contains every building in the Netherlands, is a key resource for urban planning, property research, and infrastructure development. It is the authoritative source from the government.
 
 Every building known to the government has the following information:
 
@@ -109,23 +110,23 @@ The Dutch Cadaster (🇳🇱 Het Kadaster) is the government agency that keeps t
 
 <https://www.topotijdreis.nl/>
 
-### World war II Arial Photos
+### World War II Arial Photos
 
-The RAF took a lot of photos of the netherlands. The Wageningen University catalouged these and made them avalibol.
+The RAF took many photos of the Netherlands. The Wageningen University cataloged these and made them available.
 
 <https://library.wur.nl/WebQuery/geoportal/raf>
 
 ### 🌱 soil survey
 
-TNO and the Ministry of the Interior and Kingdom Relations (🇳🇱 Ministerie van Binnenlandse Zaken en Koninkrijksrelaties) have a database for all soil survays done in the last few years.
+TNO and the Ministry of the Interior and Kingdom Relations (🇳🇱 Ministerie van Binnenlandse Zaken en Koninkrijksrelaties) have a soil survey database is a comprehensive resource, providing detailed reports on the ground makeup, the pressure it can hold, and the water table height, ensuring your projects are on solid ground.
 
-in these reports you can find:
+In these reports, you can find:
 
-* the makeup of the ground
-* the pressuer in can hold
-* the hight of the water table
+* The makeup of the ground
+* The pressure it can hold
+* The height of the water table
 
-They call it the `DINO-database` witch might be a backronym
+They call it the `DINO-database` which might be a backronym.
 
 <https://www.dinoloket.nl/>
 
@@ -137,14 +138,14 @@ The Air Traffic Control in the Netherlands (🇳🇱 Luchtverkeersleiding Nederl
 
 This includes an overview map of Dutch airspace: <https://vfrchart.lvnl.nl/>
 
-and detailed maps of all airports in the Netherlands in the eAIP system: <https://en.lvnl.nl/information-for-airmen/publications-for-airmen>  
-on this page, click on the eAIP Link, and from there, on the left side in `Part 3 AERODROMES (AD)` you will find either `AD 2 AERODROMES` for airports or `AD 3 HELIPORTS` for heliports.
+Detailed maps of all airports in the Netherlands in the eAIP system: <https://en.lvnl.nl/information-for-airmen/publications-for-airmen>  
+on this page, click on the AIP Link, and from there, on the left side in `Part 3 AERODROMES (AD)` you will find either `AD 2 AERODROMES` for airports or `AD 3 HELIPORTS` for heliports.
 
-Here you can find detailed information about the airport. Everything from contact information and airport facilities to detailed maps of the airport.  
+Here you can find detailed information about the airport. Everything from contact information and airport facilities to detailed maps of the airport.  
 With the charts located at `AD 2.24 <ICAO code> CHARTS RELATED TO AN AERODROME`, with the most interesting charts being
 
 * `Aerodrome chart` - an overview of the airport
-* `Aircraft parking / docking chart` - an overview of all the parking spaces at the airport
+* `Aircraft parking/docking chart` - an overview of all the parking spaces at the airport
 
 ### 🛸 Drone no-fly zones
 
@@ -158,7 +159,7 @@ LiveATC is a website that streams air traffic control communications from all ov
 
 Amsterdam Schiphol Airport (ICAO: EHAM) is the most popular stream in the Netherlands. It can be found at <https://www.liveatc.net/search/?icao=eham>.
 
-But many other airports in the Netherlands are also streamed. You can find over at [Google](https://www.google.nl/search?q=site%3Ahttps%3A%2F%2Fwww.liveatc.net%2F+the+netherlands)
+However, many other airports in the Netherlands are also streamed. You can find over at [Google](https://www.google.nl/search?q=site%3Ahttps%3A%2F%2Fwww.liveatc.net%2F+the+netherlands)
 
 ## 🚗 Cars
 
@@ -199,8 +200,8 @@ The sources for the information are available at <https://mxbord.nl/bronnen> and
 
 ### 🛣️ Nationaal Wegenbestand
 
-The national road database (🇳🇱 [Nationaal Wegenbestand](https://nl.wikipedia.org/wiki/Nationaal_Wegenbestand)) contains all the roads in the Netherlands. It is a dataset with all the roads, including the road number, the type of road, and the location. 
-But the most important information is the owner of the road (🇳🇱 [Wegbeheerders](https://nl.wikipedia.org/wiki/Wegbeheerder). From this you can determine if a road is publicly or privately owned.
+The national road database (🇳🇱 [Nationaal Wegenbestand](https://nl.wikipedia.org/wiki/Nationaal_Wegenbestand)) contains all the roads in the Netherlands. It is a dataset with all the roads, including the road number, the type of road, and the location.
+But the most important information is the owner of the road (🇳🇱 [Wegbeheerders](https://nl.wikipedia.org/wiki/Wegbeheerder). From this, you can determine if a road is publicly or privately owned.
 
 <https://www.nationaalwegenbestand.nl/> main site of the dataset
 <https://www.pdok.nl/introductie/-/article/nationaal-wegen-bestand-nwb-wegen> a handy viewer of the dataset
@@ -213,13 +214,50 @@ Funda is the biggest real estate platform in the Netherlands. It has a lot of in
 
 <https://www.funda.nl/>
 
+## 🌦️ Weather
+
+### 🌧️ KNMI
+
+The Royal Netherlands Meteorological Institute (🇳🇱 [Koninklijk Nederlands Meteorologisch Instituut](https://nl.wikipedia.org/wiki/Koninklijk_Nederlands_Meteorologisch_Instituut)) is the Dutch weather service. They publish a lot of information about the weather in the Netherlands.
+
+<https://www.knmi.nl/>
+
+Here are some of the most interesting pages:
+
+The forecast for the next few days: <https://www.knmi.nl/nederland-nu/weer/verwachtingen>
+
+Extended forecast: <https://www.knmi.nl/nederland-nu/weer/waarschuwingen-en-verwachtingen/weer-en-klimaatpluim>
+
+The current measurements: <https://www.knmi.nl/nederland-nu/weer/waarnemingen>
+
+Weather warnings: <https://www.knmi.nl/nederland-nu/weer/waarschuwingen/utrecht>
+
+If you need to look back at the weather on a specific day, you can use the [Daggegevens van het weer in Nederland](https://daggegevens.knmi.nl/klimatologie/dag). Here, you can look at the weather data from the KNMI from 1901 to now.
+
+The KNMI is also the government agency responsible for tracking earthquakes in the Netherlands. They have a page for that too: <https://www.knmi.nl/nederland-nu/seismologie/aardbevingen>
+
+Then, something for the nerds:
+
+[Guidance modelbeoordeling (🇬🇧 Guidance and model evaluation)](https://www.knmi.nl/nederland-nu/weer/waarschuwingen-en-verwachtingen/extra/guidance-modelbeoordeling) and [Guidance meerdaagse (🇬🇧 Guidance for the extended forecast)](https://www.knmi.nl/nederland-nu/weer/waarschuwingen-en-verwachtingen/extra/guidance-meerdaagse) on these pages a meteorologist will explain what the weather models try to say and how much they trust the models.
+
+If you love listening to the shipping forecast, you are in luck. The KNMI has a page for that too [Scheepvaartbericht](https://www.knmi.nl/nederland-nu/maritiem/scheepsweerbericht) and a similar page for internal waters [Marifoonbericht](https://www.knmi.nl/nederland-nu/maritiem/marifoon)
+
+If you are an aviator then you might be interested in the [(AUTO) METAR](https://www.knmi.nl/nederland-nu/luchtvaart/vliegveldwaarnemingen) and [TAF](https://www.knmi.nl/nederland-nu/luchtvaart/vliegveldverwachtingen) reports for the dutch airports.
+and a special weather report for smaller aircraft [Weerbulletin kleine luchtvaart](https://www.knmi.nl/nederland-nu/luchtvaart/weerbulletin-kleine-luchtvaart).
+
+### ☔ Buienradar
+
+Buienradar (🇬🇧 literally shower radar) is a popular weather website in the Netherlands. It focuses on predicting rain but also provides general weather services.
+
+<https://www.buienradar.nl/>
+
 ## 📦 Other
 
 ### 🚒 P2000
 
 P2000 is like a police scanner but only in text and is freely available. Many sites display information about emergency service calls.
 
-<https://alarmeringen.nl/>  
+<https://alarmeringen.nl/>  
 <http://www.p2000-online.net/>
 
 ### 📰 Delpher
@@ -232,6 +270,6 @@ Delpher is an extensive newspaper archive. It collected many big and small newsp
 
 WebSDR is a software-defined radio receiver that can be accessed over the internet. It can be used to listen to radio signals from all over the world.
 
-There are many WebSDR stations in the Netherlands, and they can be found on the <http://websdr.org/> website.
+There are many WebSDR stations in the Netherlands, which can be found on the <http://websdr.org/> website.
 
 The most popular WebSDR station in the Netherlands is the one in Twente. It can be found at <http://websdr.ewi.utwente.nl:8901/>.
