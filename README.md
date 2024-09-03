@@ -11,7 +11,7 @@ This page is filled to the brim with the best places to find open-source intelli
 * [✈️ Airspace](#%EF%B8%8F-airspace)
 * [🚗 Cars](#-cars)
 * [🪑 Things](#-things)
-* [🌦️ Weather](#-weather)
+* [🌦️ Weather](#️-weather)
 * [📦 Other](#-other)
 
 ## 🏢 Companies
