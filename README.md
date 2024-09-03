@@ -104,6 +104,12 @@ The PDOK viewer contains many geo datasets like an elevation map (ANH 3), land u
 
 <https://www.pdok.nl/viewer/>
 
+### Satellietdataportaal
+
+The Netherlands Space Office (NSO) has a collection of aerial imagery of the Netherlands, including the Caribbean islands Bonaire, Saba and Sint Eustatius.
+
+https://www.satellietdataportaal.nl/
+
 ### 🧭 Old maps
 
 The Dutch Cadaster (🇳🇱 Het Kadaster) is the government agency that keeps track of all land in the Netherlands. They have a website where you can look up old maps of the Netherlands. The maps are from 1815 to 2007.
