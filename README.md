@@ -13,6 +13,7 @@ This page is filled to the brim with the best places to find open-source intelli
 - [🪑 Things](#-things)
 - [🌦️ Weather](#️-weather)
 - [📦 Other](#-other)
+- [📰 News sources](#-news-sources)
 
 ## 🏢 Companies
 
@@ -291,3 +292,46 @@ WebSDR is a software-defined radio receiver that can be accessed over the intern
 There are many WebSDR stations in the Netherlands, which can be found on the <http://websdr.org/> website.
 
 The most popular WebSDR station in the Netherlands is the one in Twente. It can be found at <http://websdr.ewi.utwente.nl:8901/>.
+
+## 📰 News sources
+
+### 📺 NOS
+
+The NOS ([Nederlandse Omroep Stichting](https://en.wikipedia.org/wiki/Nederlandse_Omroep_Stichting)) is the Dutch public broadcasting foundation and the primary source for news in the Netherlands. They provide comprehensive coverage of national and international news, sports, and events.
+
+They also have live streams of their news broadcasts, which can be accessed on their website.
+
+For less recent news broadcasts, you can use NPO Start, which is the streaming service of the Dutch public broadcasters. It has a limited archive of news broadcasts, but it is still a valuable resource for finding older news.
+
+<https://npo.nl/start>
+
+<https://nos.nl/>
+
+### 🗞️ ANP
+
+The ANP ([Algemeen Nederlands Persbureau](https://en.wikipedia.org/wiki/Algemeen_Nederlands_Persbureau)) is the largest news agency in the Netherlands. They have a lot of information about current events in the Netherlands, and they also have a large photo archive.
+
+<https://www.anp.nl/>
+
+All press photographs upload there photos to the ANP photo service, and so this is a great place to additional photos that did not make it to the news. You can search for photos by keyword, date, and location.
+
+<https://www.anpfoto.nl/>
+
+### other news sources
+
+- [AD](https://www.ad.nl/)
+- [De Telegraaf](https://www.telegraaf.nl/)
+- [De Volkskrant](https://www.volkskrant.nl/)
+- [NRC](https://www.nrc.nl/)
+- [Trouw](https://www.trouw.nl/)
+- [Financieele Dagblad](https://fd.nl/)
+
+- [RTL Nieuws](https://www.rtlnieuws.nl/)
+- [NU.nl](https://www.nu.nl/)
+
+### 🌍 English language Dutch news sources
+
+If you are looking for Dutch news in English, there are a few websites that provide this:
+
+- [DutchNews.nl](https://www.dutchnews.nl/)
+- [NL Times](https://nltimes.nl/)
