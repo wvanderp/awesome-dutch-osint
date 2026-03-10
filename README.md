@@ -87,7 +87,7 @@ These announcements include but are not limited to:
 
 ### 🏘️ Registry for addresses and buildings (🇳🇱 Basisregistratie Adressen en Gebouwen)
 
-The bag registry, which contains every building in the Netherlands, is a key resource for urban planning, property research, and infrastructure development. It is the authoritative source from the government.
+The bag registry, which contains every building in the Netherlands, is a key resource for urban planning, property research, and infrastructure development. It is the authoritative government source.
 
 Every building known to the government has the following information:
 
@@ -110,15 +110,15 @@ The Dutch Cadaster (🇳🇱 Het Kadaster) is the government agency that keeps t
 
 <https://www.topotijdreis.nl/>
 
-### World War II Arial Photos
+### World War II Aerial Photos
 
 The RAF took many photos of the Netherlands. The Wageningen University cataloged these and made them available.
 
 <https://library.wur.nl/WebQuery/geoportal/raf>
 
-### 🌱 soil survey
+### 🌱 Soil Survey
 
-TNO and the Ministry of the Interior and Kingdom Relations (🇳🇱 Ministerie van Binnenlandse Zaken en Koninkrijksrelaties) have a soil survey database is a comprehensive resource, providing detailed reports on the ground makeup, the pressure it can hold, and the water table height, ensuring your projects are on solid ground.
+TNO and the Ministry of the Interior and Kingdom Relations (🇳🇱 Ministerie van Binnenlandse Zaken en Koninkrijksrelaties) have a soil survey database that is a comprehensive resource, providing detailed reports on the ground makeup, the pressure it can hold, and the water table height.
 
 In these reports, you can find:
 
@@ -139,10 +139,9 @@ The Air Traffic Control in the Netherlands (🇳🇱 Luchtverkeersleiding Nederl
 This includes an overview map of Dutch airspace: <https://vfrchart.lvnl.nl/>
 
 Detailed maps of all airports in the Netherlands in the eAIP system: <https://en.lvnl.nl/information-for-airmen/publications-for-airmen>  
-on this page, click on the AIP Link, and from there, on the left side in `Part 3 AERODROMES (AD)` you will find either `AD 2 AERODROMES` for airports or `AD 3 HELIPORTS` for heliports.
-
-Here you can find detailed information about the airport. Everything from contact information and airport facilities to detailed maps of the airport.  
-With the charts located at `AD 2.24 <ICAO code> CHARTS RELATED TO AN AERODROME`, with the most interesting charts being
+On this page, click on the AIP Link, and from there, on the left side in `Part 3 AERODROMES (AD)` you will find either `AD 2 AERODROMES` for airports or `AD 3 HELIPORTS` for heliports.
+Here you can find detailed information about the airport, including everything from contact information and airport facilities to detailed maps of the airport.  
+The charts are located at `AD 2.24 <ICAO code> CHARTS RELATED TO AN AERODROME`, with the most interesting charts being
 
 * `Aerodrome chart` - an overview of the airport
 * `Aircraft parking/docking chart` - an overview of all the parking spaces at the airport
@@ -159,7 +158,7 @@ LiveATC is a website that streams air traffic control communications from all ov
 
 Amsterdam Schiphol Airport (ICAO: EHAM) is the most popular stream in the Netherlands. It can be found at <https://www.liveatc.net/search/?icao=eham>.
 
-However, many other airports in the Netherlands are also streamed. You can find over at [Google](https://www.google.nl/search?q=site%3Ahttps%3A%2F%2Fwww.liveatc.net%2F+the+netherlands)
+However, many other airports in the Netherlands are also streamed. You can find them over at [Google](https://www.google.nl/search?q=site%3Ahttps%3A%2F%2Fwww.liveatc.net%2F+the+netherlands)
 
 ## 🚗 Cars
 
@@ -169,7 +168,7 @@ The Directorate General for Public Works and Water Management (🇳🇱 Rijkswat
 
 Besides the usual traffic jams, they publish information about roadworks, accidents, and other things that can cause delays.
 
-The site also has a map with all the traffic cameras Rijkswaterstaat has.
+The site also has a map showing all Rijkswaterstaat traffic cameras.
 
 <https://www.rwsverkeersinfo.nl/>
 
@@ -182,7 +181,7 @@ This site reports:
 * The make and model
 * The color
 * Information about the motor, like the power, cylinder capacity, and the emissions
-* Data about when mandatory maintenance was done (🇬🇧 [MOT](https://en.wikipedia.org/wiki/MOT_test) (🇳🇱 [APK](https://nl.wikipedia.org/wiki/Algemene_periodieke_keuring))) was last done
+* Data about when the mandatory maintenance check (🇬🇧 [MOT](https://en.wikipedia.org/wiki/MOT_test) (🇳🇱 [APK](https://nl.wikipedia.org/wiki/Algemene_periodieke_keuring))) was last done
 * If there are any recalls on the car
 * And an estimated price and Vehicle registration tax (🇳🇱 [BPM](https://nl.wikipedia.org/wiki/Belasting_van_personenauto%27s_en_motorrijwielen))
 
@@ -190,7 +189,7 @@ This site reports:
 
 ### 🚥 Matrix signs
 
-In the Netherlands, we have real-time traffic management through electronic signs above the road. The Rijkswaterstaat controls these signs and can limit the speed, close lanes, and give other information. You can read more about matrix signs [this Dutch Wikipedia page](https://nl.wikipedia.org/wiki/Rijstrooksignalering).
+In the Netherlands, we have real-time traffic management through electronic signs above the road. The Rijkswaterstaat controls these signs and can limit the speed, close lanes, and give other information. You can read more about matrix signs on [this Dutch Wikipedia page](https://nl.wikipedia.org/wiki/Rijstrooksignalering).
 
 MXbord.nl is a website that shows all the signs in the Netherlands.
 
@@ -201,7 +200,7 @@ The sources for the information are available at <https://mxbord.nl/bronnen> and
 ### 🛣️ Nationaal Wegenbestand
 
 The national road database (🇳🇱 [Nationaal Wegenbestand](https://nl.wikipedia.org/wiki/Nationaal_Wegenbestand)) contains all the roads in the Netherlands. It is a dataset with all the roads, including the road number, the type of road, and the location.
-But the most important information is the owner of the road (🇳🇱 [Wegbeheerders](https://nl.wikipedia.org/wiki/Wegbeheerder). From this, you can determine if a road is publicly or privately owned.
+But the most important information is the owner of the road (🇳🇱 [Wegbeheerders](https://nl.wikipedia.org/wiki/Wegbeheerder)). From this, you can determine if a road is publicly or privately owned.
 
 <https://www.nationaalwegenbestand.nl/> main site of the dataset
 <https://www.pdok.nl/introductie/-/article/nationaal-wegen-bestand-nwb-wegen> a handy viewer of the dataset
@@ -213,6 +212,16 @@ But the most important information is the owner of the road (🇳🇱 [Wegbeheer
 Funda is the biggest real estate platform in the Netherlands. It has a lot of information about houses and other buildings in the Netherlands, including price, size, location, layout, and interior photos.
 
 <https://www.funda.nl/>
+
+something about archive.org
+
+### 📐 Floor plans
+
+Most of the listed properties on Funda have floor plans drawn up by the real estate agent. These floor plans can be very detailed and can give you a good idea of the layout of the house.
+
+These plans are drawn in the semi-open JSON-based [FML](https://fml.floorplanner.dev/intro/) (Floorplan Markup Language)  format of [Floorplanner](https://floorplanner.com/).
+
+These files are usually created using measurements of the house or recent lidar scans. Sometimes the rendered images of the lidar scans are still included in the FML file. This gives you a more detailed view of the house than the floor plan itself.
 
 ## 🌦️ Weather
 
@@ -242,7 +251,7 @@ Then, something for the nerds:
 
 If you love listening to the shipping forecast, you are in luck. The KNMI has a page for that too [Scheepvaartbericht](https://www.knmi.nl/nederland-nu/maritiem/scheepsweerbericht) and a similar page for internal waters [Marifoonbericht](https://www.knmi.nl/nederland-nu/maritiem/marifoon)
 
-If you are an aviator then you might be interested in the [(AUTO) METAR](https://www.knmi.nl/nederland-nu/luchtvaart/vliegveldwaarnemingen) and [TAF](https://www.knmi.nl/nederland-nu/luchtvaart/vliegveldverwachtingen) reports for the dutch airports.
+If you are an aviator then you might be interested in the [(AUTO) METAR](https://www.knmi.nl/nederland-nu/luchtvaart/vliegveldwaarnemingen) and [TAF](https://www.knmi.nl/nederland-nu/luchtvaart/vliegveldverwachtingen) reports for the Dutch airports.
 and a special weather report for smaller aircraft [Weerbulletin kleine luchtvaart](https://www.knmi.nl/nederland-nu/luchtvaart/weerbulletin-kleine-luchtvaart).
 
 ### ☔ Buienradar
