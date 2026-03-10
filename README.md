@@ -103,11 +103,15 @@ The PDOK viewer contains many geo datasets like an elevation map (ANH 3), land u
 
 <https://www.pdok.nl/viewer/>
 
-### Satellietdataportaal
+### 🛰️ Satellite data portal (🇳🇱 Satellietdataportaal)
 
-The Netherlands Space Office (NSO) has a collection of aerial imagery of the Netherlands, including the Caribbean islands Bonaire, Saba and Sint Eustatius.
+The Netherlands Space Office (NSO) has a collection of satellite imagery of the Netherlands, including the Caribbean islands Bonaire, Saba and Sint Eustatius.
 
-https://www.satellietdataportaal.nl/
+The site includes high-resolution satellite imagery from [`SuperView-NEO`](https://en.wikipedia.org/wiki/China_Siwei) (0.3m), [`Pleiades Neo`](https://de.wikipedia.org/wiki/Pl%C3%A9iades_Neo) (0.3m) and [`SuperView-1`](https://en.wikipedia.org/wiki/China_Siwei) (0.5m) satellites, and SAR data from [`RadarSat-2`](https://en.wikipedia.org/wiki/Radarsat-2) (20m).
+
+The data goes back to 2012 and is updated anywhere from within a few weeks to a few months. The data is not licence-free; each source has its [own licence](https://www.satellietdataportaal.nl/handleidingen/licentievoorwaarden/), but you don't have to pay for it, which is nice.
+
+<https://www.satellietdataportaal.nl/>
 
 ### 🧭 Old maps
 
