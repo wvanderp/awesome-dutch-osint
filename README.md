@@ -46,6 +46,12 @@ The registry provides the following information:
 
 <https://www.bigregister.nl/>
 
+## 🌐 Domains
+
+### 🔍 DNS and WHOIS lookups
+
+- [DNSai](https://dnsai.com/dns-tools/) - Free DNS, WHOIS and email-authentication (SPF/DKIM/DMARC) lookups, works for .nl domains, no signup.
+
 ## 📄 Laws
 
 ### 📜 Dutch laws and regulations
